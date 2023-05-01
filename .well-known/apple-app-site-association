@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "QN3ADBJ926.co.frametag.app",
+                "paths": [ "/video-entries/*"]
+            },
+            {
+                "appID": "QN3ADBJ926.co.frametag-ios.VideoFeedback",
+                "paths": ["/videos/*"]
+            }
+        ]
+    }
+}
