@@ -9,6 +9,10 @@
             {
                 "appID": "QN3ADBJ926.so.tyro-ios.VideoFeedback",
                 "paths": ["/videos/*"]
+            },
+            {
+                "appID": "QN3ADBJ926.so.tyro-ios.VideoFeedback-beta",
+                "paths": ["/videos/*"]
             }
         ]
     }
